@@ -1,6 +1,6 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)
+[![MasterHead]([https://i.gifer.com/1kc1.gif](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif))
 <h1 align="center">Hi 👋, I'm Srikanta Pramanik</h1>
-<h3 align="center">B.Tech 2024 (CSE)</h3>
+<h3 align="center">B.Tech in CSE(AI & ML) 2024 UG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanta1122&label=Profile%20views&color=0e75b6&style=flat" alt="srikanta1122" /> </p>
 
