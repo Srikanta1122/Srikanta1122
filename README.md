@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/NvL.mp4)
+[![MasterHead](https://i.gifer.com/1kc1.gif)
 <h1 align="center">Hi 👋, I'm Srikanta Pramanik</h1>
 <h3 align="center">B.Tech 2024 (CSE)</h3>
 
