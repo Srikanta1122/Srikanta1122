@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)]
+[![MasterHead](https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f)]
 <h1 align="center">Hi 👋, I'm Srikanta Pramanik</h1>
 <h3 align="center">B.Tech in CSE(AI & ML) 2024 UG</h3>
 
