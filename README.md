@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Srikanta Pramanik</h1>
 <h3 align="center">B.Tech in CSE(AI & ML) 2024 UG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanta1122&label=Profile%20views&color=0e75b6&style=flat" alt="srikanta1122" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanta1122" alt="srikanta1122" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanta1122&label=Profile%20views&color=0e75b6&style=flat" alt="srikanta1122" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
@@ -27,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanta1122&show_icons=true&locale=en&layout=compact" alt="srikanta1122" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanta1122&show_icons=true&locale=en" alt="srikanta1122" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanta1122&" alt="srikanta1122" /></p>
